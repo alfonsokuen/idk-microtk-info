@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://idkmanager.com/pictures/idkmanager-logo.png" alt="IDKmanager" width="80"/>
+  <img src="https://idkmanager.com/wp-content/uploads/2023/01/cropped-idk-manager-LOGO-1-1-1.png" alt="IDKmanager" width="80"/>
 </p>
 
 <h1 align="center">IDK Microtk</h1>
